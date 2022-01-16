@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: black;
+color:white;
+}
+header a{
+border:1px solid red;
+text-decoration:none;
+border-radius:10px;
+padding:5px;
+background-color: yellow; 
+}
+h1 {
+color:red;
+text-align:center;
+border-radius:10px;
+border:1px solid green;
+}
+footer p {
+background-color:green;
+}
+nav{
+ color:chartreuse;
+text-align:center;
+border-radius:1
+px;
+border:1px solid green; 
+}
+.play{
+color:red;
+text-align:center;
+border-radius:15px;
+border:1px solid green;
+padding:10px;
+}
+
+h2{
+color:blue;
+}
+ a{
+border:1px solid red;
+text-decoration:none;
+border-radius:1px;
+padding:5px;
+background-color: blanchedalmond;
+}
